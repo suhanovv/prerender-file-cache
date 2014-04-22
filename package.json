@@ -1,6 +1,6 @@
 {
   "name": "prerender-file-cache",
-  "version": "0.0.2",
+  "version": "0.0.3a",
   "description": "Prerender plugin for caching in file system",
   "main": "index.js",
   "scripts": {
