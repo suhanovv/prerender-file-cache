@@ -16,7 +16,7 @@
     "cache"
   ],
     "dependencies": {
-        "node-fs": ">= 0.1.7",
+        "node-fs": ">= 0.1.7"
     },
   "author": "Suhanov Vadim",
   "license": "BSD",
