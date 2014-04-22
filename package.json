@@ -1,6 +1,6 @@
 {
   "name": "prerender-file-cache",
-  "version": "0.0.3a",
+  "version": "0.0.5",
   "description": "Prerender plugin for caching in file system",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,5 @@
   "author": "Suhanov Vadim",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "9eed9e6c5041a5e217d2dda96fc9579a5af27225"
+  "gitHead": "0edd111d1fd5fc9b3d7a02c4c2bdb950d5c81234"
 }
