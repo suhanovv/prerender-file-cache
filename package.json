@@ -1,6 +1,6 @@
 {
   "name": "prerender-file-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Prerender plugin for caching in file system",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
     "filesystem",
     "cache"
   ],
+    "dependencies": {
+        "node-fs": ">= 0.1.7",
+    },
   "author": "Suhanov Vadim",
   "license": "BSD",
   "readmeFilename": "README.md",
